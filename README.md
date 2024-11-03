@@ -23,4 +23,12 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)
+<br/>
+
+### Socials
+<div id="badges">
+  <a href="https://www.facebook.com/rizelbrace2">
+    <img src="https://logodix.com/logo/659076.png" alt="LinkedIn Badge"/>
+  </a>
+</div>
