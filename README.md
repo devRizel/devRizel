@@ -29,6 +29,6 @@
 ### Socials
 <div id="badges">
   <a href="https://www.facebook.com/rizelbrace2">
-    <img width='100px' height='60px' src="https://logodix.com/logo/659076.png"
+    <img width='100px' height='45px' src="https://logodix.com/logo/659076.png"
   </a>
 </div>
