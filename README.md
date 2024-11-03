@@ -14,9 +14,9 @@
 
 
 <span align ='center'>
-<img width="33%" src="https://github-readme-streak-stats.herokuapp.com?user=devRizel&theme=merko" />
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRizel&theme=merko&layout=compact" />
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=devRizel&theme=merko&show_icons=true&count_private=true" />
+<img width="30%" src="https://github-readme-streak-stats.herokuapp.com?user=devRizel&theme=merko" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRizel&theme=merko&layout=compact" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=devRizel&theme=merko&show_icons=true&count_private=true" />
 </span>
 
 <hr>
