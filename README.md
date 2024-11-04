@@ -1,5 +1,6 @@
 
 <h1 align='center'>Hi there, I'm Rizel Mulle Bracero 👋</h1>
+<h4 align='center'>Trying to be learned typescript 🤍</h4>
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${beefysalad}.${beefysalad}) -->
 <div align='center'><img width='100px' height='60px' src="https://avatars.githubusercontent.com/u/175123581?v=4"/>
 </div>
